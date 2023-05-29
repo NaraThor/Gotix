@@ -1,0 +1,23 @@
+ * {
+ 	font-family: cursive;
+ }
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.card {
+	margin: 30px 100px;
+	padding: 20px 50px;
+	background-color: lightgrey;
+	border-radius: 20px;
+}
+
+.disp {
+	display: flex;
+}
+
+.flex {
+	flex-grow: 1;
+}
